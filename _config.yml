@@ -1,3 +1,5 @@
 title: Chelsea
 logo: assets/images/capstone_dashboards.png
 show_downloads: True
+plugins:
+- jekyll-remote-theme
