@@ -71,8 +71,6 @@ This analyzes the fuel consumption and efficiency of assets, maintenance,labor a
 ## Key Insights 🔍
 
 
----
-
 ## Recommendations 💡
 
 
