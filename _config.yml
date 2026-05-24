@@ -1,5 +1,5 @@
 title: Chelsea
-logo: assets/images/capstone_dashboards.png
+logo: assets/images/capstone_dashboards 5.png
 show_downloads: True
 plugins:
 - jekyll-remote-theme
