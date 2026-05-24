@@ -5,8 +5,12 @@
 
 These dashboards were created as part of a capstone project to provide comprehensive overview of logistics operations in a company by monitoring financial performance, customer service and delivery efficiency, fleet operations, fuel performance and asset maintanence, driver performance and safety compliance. It enables stakeholders track important operational metrics, identify performance gaps, cut down operational costs, optimize fleet assets and further make future data driven decisions. The dataset for this project was provided with data from the past three years.
 
+---
+
 ### Dashboard File
 You can find the file for the dashboard here: [`Capstone_Logistics_Project.pbix`](project/Capstone_Logistics_Project.pbix).
+
+---
 
 ## Skills Showcased
 
