@@ -20,7 +20,7 @@ This project exposed me to key Power BI features and some of the them i have mas
 -   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
 -   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best communicate a compelling and accurate data story.
 -   **🖱️ Interactive Reporting:**
-    -   **Slicers:** To dynamically filter the report by Job Title.
+    -   **Slicers:** To dynamically filter the report by year, customer, maintenance and facility type, facility location, accident type and preventable flag .
     -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
  
 ---
@@ -33,7 +33,7 @@ This project exposed me to key Power BI features and some of the them i have mas
 
 ![logistics overview](assets/images/capstone_dashboard_1.png)
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This gives a quick understanding of the company's revenue performance and customer sastisfaction. It showcases key KPIs and metrics like total revenue and its year-on-year growth, customer type, their revenue and potential, freight-type disribution and revenue monthly trend.
 
 ## Key Insights
 
@@ -42,8 +42,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ![logistics overview](assets/images/capstone_dashboard_2.png)
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
-
+This monitors fleet utilization, trip volume, delivery distribution and efficiency, top locations with operational delays, miles covered and load per truck make(asset),asset revenue, on-time delivery monthly trend, average idle hours and detention minutes per facility.
 
 ## Key Insights
 
