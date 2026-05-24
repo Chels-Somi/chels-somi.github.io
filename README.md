@@ -1,3 +1,3 @@
 # Logistics Operation Analytics 🚚
 ## Introduction
-![Logistics overview](capstone_dashboards 5.png)
+![logistics overview](assets/images/capstone_dashboards 5.png)
