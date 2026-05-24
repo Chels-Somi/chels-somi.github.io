@@ -78,6 +78,8 @@ This analyzes the fuel consumption and efficiency of assets, maintenance,labor a
 
 ## Conclusion ✅
 
-This dashboard showcases how Power
+These dashboards showcase how the company can improve operational visibility, strenghten customer sastifaction, enhance fleet reliability and drive continous improvement in logistics performance.
+
+This project strengthened my skills in dashboard wireframing, DAX and data storytelling while demonstrating how data analysis can directly impact strategic decision-making in logistics.
 
 
