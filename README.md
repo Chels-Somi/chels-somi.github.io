@@ -3,17 +3,17 @@
 ![logistics overview](assets/images/capstone_dashboards_5.png)
 *A comprehensive view of logistics operations and safety compliance.*
 
-These dashboards were created as part of a capstone project to provide comprehensive overview of logistics operations in a company by monitoring financial performance, customer service and delivery efficiency, fleet operations, fuel performance and asset maintanance, driver performance and safety compliance. It enables stakeholders track important operational metrics,identify performance gaps, cut down operational costs, optimize fleet assets and further make future data drivrn decisions. The dataset for this project was provided with data from the past three years.
+These dashboards were created as part of a capstone project to provide comprehensive overview of logistics operations in a company by monitoring financial performance, customer service and delivery efficiency, fleet operations, fuel performance and asset maintanence, driver performance and safety compliance. It enables stakeholders track important operational metrics, identify performance gaps, cut down operational costs, optimize fleet assets and further make future data driven decisions. The dataset for this project was provided with data from the past three years.
 
 ### Dashboard File
 You can find the file for the dashboard here: [`Capstone_Logistics_Project.pbix`](project/Capstone_Logistics_Project.pbix).
 
 ## Skills Showcased
 
-This project was a journey through key Power BI features. Here's a look at what we mastered:
+This project exposed me to key Power BI features and some of the them i have mastered include:
 
--   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
+-   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks/ null values, changing data types, creating and merging new columns.
+-   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Total Customers`, `On-Time and Delayed Deliveries`, 'Total Fuel Consumed', 'Total Revenue', 'Active Drivers', 'Total Incidents', 'Average MPG', 'Average Downtime', 'Total Fuel Cost', 'Combined Fleet Utilization', Average Load per Trip' and so on.
 -   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
 -   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
 -   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
