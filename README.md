@@ -35,15 +35,43 @@ This project exposed me to key Power BI features and some of the them i have mas
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
-### Page 2: Job Title Drill Through
+## Key Insights
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
+
+### Page 2: Fleet Operations and Delievery Efficiency
+
+![logistics overview](assets/images/capstone_dashboard_2.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+
+## Key Insights
+
+
+### Page 3: Driver Performance and Safety Compliance
+
+![logistics overview](assets/images/capstone_dashboard_3.png)  
+
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+
+## Key Insights
+
+
+### Page 4: Fuel, Maintenance and Asset Health
+
+![logistics overview](assets/images/capstone_dashboard_4.png) 
+
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+
+## Key Insights
+
 
 ---
 
 ## Conclusion
 
 This dashboard showcases how Power
+
 
