@@ -45,5 +45,5 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 
 ## Conclusion
 
-This dashboard showcases how Power BI can transform
+This dashboard showcases how Power
 
