@@ -13,7 +13,7 @@ You can find the file for the dashboard here: [`Capstone_Logistics_Project.pbix`
 This project exposed me to key Power BI features and some of the them i have mastered include:
 
 -   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks/ null values, changing data types, creating and merging new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Total Customers`, `On-Time and Delayed Deliveries`, 'Total Fuel Consumed', 'Total Revenue', 'Active Drivers', 'Total Incidents', 'Average MPG', 'Average Downtime', 'Total Fuel Cost', 'Combined Fleet Utilization', Average Load per Trip' and so on.
+-   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Total Customers`, `On-Time and Delayed Deliveries`, `Total Fuel Consumed`, `Total Revenue`, `Active Drivers`, `Total Incidents`, `Average MPG`, `Average Downtime`, `Total Fuel Cost`, `Combined Fleet Utilization`, `Average Load per Trip` and so on.
 -   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
 -   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
 -   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
