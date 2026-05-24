@@ -42,7 +42,7 @@ This gives a quick understanding of the company's revenue performance and custom
 
 ![logistics overview](assets/images/capstone_dashboard_2.png)
 
-This monitors fleet utilization, trip volume, delivery distribution and efficiency, top locations with operational delays, miles covered and load per truck make(asset),asset revenue, on-time delivery monthly trend, average idle hours and detention minutes per facility.
+This monitors fleet utilization, trip volume, delivery distribution and efficiency, top locations with operational delays, miles covered and load per truck make(asset), asset revenue, on-time delivery monthly trend, average idle hours and detention minutes per facility.
 
 ## Key Insights
 
@@ -51,7 +51,7 @@ This monitors fleet utilization, trip volume, delivery distribution and efficien
 
 ![logistics overview](assets/images/capstone_dashboard_3.png)  
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+This dashboard evaluates drivers productivity, safety incidents and monthly trend over the years, fuel usage, operational risks drivers activity and operational costs.
 
 
 ## Key Insights
@@ -61,7 +61,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 
 ![logistics overview](assets/images/capstone_dashboard_4.png) 
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+This analyzes the fuel consumption and efficiency of assets, maintenance,labor and parts costs of assets, downtime hours, overall fleet condition and activity trend.
 
 
 ## Key Insights
