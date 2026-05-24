@@ -39,7 +39,7 @@ This project exposed me to key Power BI features and some of the them i have mas
 
 This gives a quick understanding of the company's revenue performance and customer sastisfaction. It showcases key KPIs and metrics like total revenue and its year-on-year growth, customer type, their revenue and potential, freight-type disribution and revenue monthly trend.
 
-## Key Insights
+## Key Insights 🔍
 
 
 ### Page 2: Fleet Operations and Delievery Efficiency 🛒
@@ -48,7 +48,7 @@ This gives a quick understanding of the company's revenue performance and custom
 
 This monitors fleet utilization, trip volume, delivery distribution and efficiency, top locations with operational delays, miles covered and load per truck make(asset), asset revenue, on-time delivery monthly trend, average idle hours and detention minutes per facility.
 
-## Key Insights
+## Key Insights 🔍
 
 
 ### Page 3: Driver Performance and Safety Compliance 🦺
@@ -58,7 +58,7 @@ This monitors fleet utilization, trip volume, delivery distribution and efficien
 This dashboard evaluates drivers productivity, safety incidents and monthly trend over the years, fuel usage, operational risks drivers activity and operational costs.
 
 
-## Key Insights
+## Key Insights 🔍
 
 
 ### Page 4: Fuel, Maintenance and Asset Health ⛽
@@ -68,12 +68,17 @@ This dashboard evaluates drivers productivity, safety incidents and monthly tren
 This analyzes the fuel consumption and efficiency of assets, maintenance,labor and parts costs of assets, downtime hours, overall fleet condition and activity trend.
 
 
-## Key Insights
+## Key Insights 🔍
 
 
 ---
 
-## Conclusion
+## Recommendations 💡
+
+
+---
+
+## Conclusion ✅
 
 This dashboard showcases how Power
 
