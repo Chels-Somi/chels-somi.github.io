@@ -39,8 +39,6 @@ This project exposed me to key Power BI features and some of the them i have mas
 
 This gives a quick understanding of the company's revenue performance and customer sastisfaction. It showcases key KPIs and metrics like total revenue and its year-on-year growth, customer type, their revenue and potential, freight-type disribution and revenue monthly trend.
 
-## Key Insights 🔍
-
 
 ### Page 2: Fleet Operations and Delievery Efficiency 🛒
 
@@ -48,17 +46,12 @@ This gives a quick understanding of the company's revenue performance and custom
 
 This monitors fleet utilization, trip volume, delivery distribution and efficiency, top locations with operational delays, miles covered and load per truck make(asset), asset revenue, on-time delivery monthly trend, average idle hours and detention minutes per facility.
 
-## Key Insights 🔍
-
 
 ### Page 3: Driver Performance and Safety Compliance 🦺
 
 ![logistics overview](assets/images/capstone_dashboard_3.png)  
 
 This dashboard evaluates drivers productivity, safety incidents and monthly trend over the years, fuel usage, operational risks drivers activity and operational costs.
-
-
-## Key Insights 🔍
 
 
 ### Page 4: Fuel, Maintenance and Asset Health ⛽
@@ -70,8 +63,7 @@ This analyzes the fuel consumption and efficiency of assets, maintenance,labor a
 
 ## Key Insights 🔍
 
-
-## Recommendations 💡
+The company had a decrease in revenue in 2023 but quickly revovered the following year by 0.9% signifies a stable business with revenue disrtibution fairly balanced and Contract type customers contributes slightly more to the business. On-time pickup performance sits on 66.73% while on time deliveries lies lower suggesting efficiency in shipment collection and issues en-route to final destinations. A combined fleet utilization rate of 91.33% signifies effective asset usage. The top revenue performing drivers and also the top safety compliant drivers and trend of incidents reduced over the course of years, with Texas state (TX) the highest number with incidents, DOT violations the most frequent type of incident.
 
 
 ---
