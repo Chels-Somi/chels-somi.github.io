@@ -29,7 +29,7 @@ This project exposed me to key Power BI features and some of the them i have mas
 
 *This report is split into four distinct pages to provide both a high-level summary and a detailed analysis.*
 
-### Page 1: Revenue and Customer Service
+### Page 1: Revenue and Customer Service 💹
 
 ![logistics overview](assets/images/capstone_dashboard_1.png)
 
@@ -38,7 +38,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 ## Key Insights
 
 
-### Page 2: Fleet Operations and Delievery Efficiency
+### Page 2: Fleet Operations and Delievery Efficiency 🛒
 
 ![logistics overview](assets/images/capstone_dashboard_2.png)
 
@@ -48,7 +48,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Key Insights
 
 
-### Page 3: Driver Performance and Safety Compliance
+### Page 3: Driver Performance and Safety Compliance 🦺
 
 ![logistics overview](assets/images/capstone_dashboard_3.png)  
 
@@ -58,7 +58,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Key Insights
 
 
-### Page 4: Fuel, Maintenance and Asset Health
+### Page 4: Fuel, Maintenance and Asset Health ⛽
 
 ![logistics overview](assets/images/capstone_dashboard_4.png) 
 
